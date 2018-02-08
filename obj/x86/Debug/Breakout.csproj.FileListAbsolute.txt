@@ -1,0 +1,12 @@
+C:\Users\LexCa\Documents\Visual Studio 2015\Projects\Breakout\Breakout\bin\WindowsGL\Debug\Breakout.exe
+C:\Users\LexCa\Documents\Visual Studio 2015\Projects\Breakout\Breakout\bin\WindowsGL\Debug\Breakout.pdb
+C:\Users\LexCa\Documents\Visual Studio 2015\Projects\Breakout\Breakout\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\LexCa\Documents\Visual Studio 2015\Projects\Breakout\Breakout\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\LexCa\Documents\Visual Studio 2015\Projects\Breakout\Breakout\obj\x86\Debug\Breakout.csprojResolveAssemblyReference.cache
+C:\Users\LexCa\Documents\Visual Studio 2015\Projects\Breakout\Breakout\obj\x86\Debug\Breakout.exe
+C:\Users\LexCa\Documents\Visual Studio 2015\Projects\Breakout\Breakout\obj\x86\Debug\Breakout.pdb
+C:\Users\LexCa\Documents\Visual Studio 2015\Projects\Breakout\Breakout\bin\WindowsGL\Debug\Content\images\ball.xnb
+C:\Users\LexCa\Documents\Visual Studio 2015\Projects\Breakout\Breakout\bin\WindowsGL\Debug\Content\images\paddle.xnb
+C:\Users\LexCa\Documents\Visual Studio 2015\Projects\Breakout\Breakout\bin\WindowsGL\Debug\Content\images\block.xnb
+C:\Users\LexCa\Documents\Visual Studio 2015\Projects\Breakout\Breakout\bin\WindowsGL\Debug\Content\levels\level1.txt
+C:\Users\LexCa\Documents\Visual Studio 2015\Projects\Breakout\Breakout\bin\WindowsGL\Debug\Content\font.xnb

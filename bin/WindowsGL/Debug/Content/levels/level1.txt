@@ -1,0 +1,5 @@
+﻿b,b,r,r,g,r,b,g,b,y,y,y,b,r,g,g,
+r,r,b,y,y,g,g,r,b,b,r,g,g,r,b,b,
+b,g,y,b,g,r,r,g,b,b,g,r,b,y,g,r,
+b,r,b,r,b,y,b,r,g,g,b,r,g,g,r,b,
+y,r,b,b,y,g,r,r,g,b,r,b,g,r,y,r,
